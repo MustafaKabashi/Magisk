@@ -1,3 +1,4 @@
+![ic_launcher_round](https://github.com/user-attachments/assets/debc9306-fda9-498d-8d1f-8b50fc983ce2)
 # Magisk Changelog
 
 ### v29.0
